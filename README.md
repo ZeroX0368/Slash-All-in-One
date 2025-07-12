@@ -1,1 +1,3 @@
-# Slash-All-in-One-V2
+Main `index.js`
+
+buid `npm install`
